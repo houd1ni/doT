@@ -1,3 +1,6 @@
+#It is unofficial, but maintaining branch of olado/doT.js. Feel free to contribute.
+
+
 Created in search of the fastest and concise JavaScript templating function with emphasis on performance under V8 and nodejs. It shows great performance for both nodejs and browsers.
 
 doT.js is fast, small and has no dependencies.
