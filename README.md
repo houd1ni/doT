@@ -1,4 +1,4 @@
-#It is unofficial, but maintaining branch of olado/doT.js. Feel free to contribute.
+# [master](https://github.com/olado/doT) is now maintaining! Thanks to @epoberezkin
 
 
 Created in search of the fastest and concise JavaScript templating function with emphasis on performance under V8 and nodejs. It shows great performance for both nodejs and browsers.
