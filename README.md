@@ -1,4 +1,5 @@
 # [master](https://github.com/olado/doT) is now maintaining! Thanks to @epoberezkin
+# So, use the master branch instead.
 
 
 Created in search of the fastest and concise JavaScript templating function with emphasis on performance under V8 and nodejs. It shows great performance for both nodejs and browsers.
